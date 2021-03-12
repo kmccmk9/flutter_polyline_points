@@ -62,13 +62,24 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_plugin_android_lifecycle:
+    dependency: transitive
+    description:
+      name: flutter_plugin_android_lifecycle
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   flutter_polyline_points:
     dependency: "direct dev"
     description:
       path: ".."
       relative: true
     source: path
+<<<<<<< HEAD
     version: "0.2.4"
+=======
+    version: "0.2.5"
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -80,13 +91,27 @@ packages:
       name: google_maps_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.5.7"
+    version: "2.0.1"
+  google_maps_flutter_platform_interface:
+    dependency: transitive
+    description:
+      name: google_maps_flutter_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+<<<<<<< HEAD
+    version: "0.13.0"
+  http_parser:
+=======
+    version: "2.0.1"
   http:
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
     dependency: transitive
     description:
       name: http
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
+=======
     version: "0.13.0"
   http_parser:
     dependency: transitive
@@ -94,6 +119,7 @@ packages:
       name: http_parser
       url: "https://pub.dartlang.org"
     source: hosted
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
     version: "4.0.0"
   matcher:
     dependency: transitive
@@ -123,6 +149,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.11.0"
+<<<<<<< HEAD
+=======
+  plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: plugin_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
   sky_engine:
     dependency: transitive
     description: flutter
@@ -149,6 +185,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+<<<<<<< HEAD
+=======
+  stream_transform:
+    dependency: transitive
+    description:
+      name: stream_transform
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
   string_scanner:
     dependency: transitive
     description:
@@ -185,5 +231,10 @@ packages:
     source: hosted
     version: "2.1.0"
 sdks:
+<<<<<<< HEAD
   dart: ">=2.12.0-0.0 <3.0.0"
   flutter: ">=0.11.9"
+=======
+  dart: ">=2.12.0-259.9.beta <3.0.0"
+  flutter: ">=1.22.0"
+>>>>>>> 4cc38d7e23e5e39b8036837e9735cf19153a2b4d
